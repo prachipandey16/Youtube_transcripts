@@ -1,9 +1,9 @@
 # Youtube_transcripts
 
-#Description
+# Description
 Possess the ability to parse every video on a YouTube channel or playlist, extract audio transcripts, and embed the videos in a vector database so that search and retrieval are possible.
 
-#Implementation Details
+# Implementation Details
 It will consist of the following:
 
 * Get the user's playlist or channel link.
@@ -15,23 +15,23 @@ It will consist of the following:
 * Turn on COLBERT retrieval and search for the embedded information.
 * A search for a question returns obtain the necessary content's timestamps, a YouTube link, and similar content.
 
-#Product Name
+# Product Name
 AI Tools
 
-#Organization Name
+# Organization Name
 SamagraX
 
-#Domain
+# Domain
 NA
 
-#Tech Skills Needed
+# Tech Skills Needed
 Pytorch/ Python, ML
 
-#Category
+# Category
 Feature
 
-#Mentor(s)
+# Mentor(s)
 @GautamR-Samagra
 
-#Complexity
+# Complexity
 Medium
