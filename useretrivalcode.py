@@ -1,7 +1,3 @@
-!pip install ragatouille sqlite-utils -q
-!pip uninstall --y faiss-cpu & pip install faiss-gpu -q
-!pip install llm -q
-
 from ragatouille import RAGPretrainedModel
 import re
 import sqlite_utils
