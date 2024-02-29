@@ -64,7 +64,7 @@ def retrieve_and_summarize(query):
     youtube_link = "https://www.youtube.com/example"  # Replace with the actual YouTube link
     timestamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
 
-    db = sqlite_utils.Database("simonwillisonblog.db")
+    db = sqlite_utils.Database("TextSummarisation.db")
     db["search_results"].insert({
         "query": query,
         "summary": result_summary,
